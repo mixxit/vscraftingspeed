@@ -7,8 +7,8 @@
     <ProjectGuid>{20CF8184-E2A4-4534-BF50-F9C168EA2082}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>vscraftingspeedmod</RootNamespace>
-    <AssemblyName>vscraftingspeedmod</AssemblyName>
+    <RootNamespace>vscraftingspeed</RootNamespace>
+    <AssemblyName>vscraftingspeed</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -17,8 +17,8 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\bin\Debug\vscraftingspeedmod\</OutputPath>
-    <IntermediateOutputPath>..\..\obj\Debug\vscraftingspeedmod\</IntermediateOutputPath>
+    <OutputPath>..\..\bin\Debug\vscraftingspeed\</OutputPath>
+    <IntermediateOutputPath>..\..\obj\Debug\vscraftingspeed\</IntermediateOutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -26,8 +26,8 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\..\bin\Release\vscraftingspeedmod\</OutputPath>
-    <IntermediateOutputPath>..\..\obj\Release\vscraftingspeedmod\</IntermediateOutputPath>
+    <OutputPath>..\..\bin\Release\vscraftingspeed\</OutputPath>
+    <IntermediateOutputPath>..\..\obj\Release\vscraftingspeed\</IntermediateOutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>

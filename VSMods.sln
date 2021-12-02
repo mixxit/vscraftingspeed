@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSModLauncher", "VSModLaunc
 		{20cf8184-e2a4-4534-bf50-f9c168ea2082} = {20cf8184-e2a4-4534-bf50-f9c168ea2082}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vscraftingspeedmod", "mods\vscraftingspeedmod\vscraftingspeedmod.csproj", "{20cf8184-e2a4-4534-bf50-f9c168ea2082}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vscraftingspeed", "mods\vscraftingspeed\vscraftingspeed.csproj", "{20cf8184-e2a4-4534-bf50-f9c168ea2082}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

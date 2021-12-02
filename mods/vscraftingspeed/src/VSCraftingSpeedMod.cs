@@ -3,7 +3,7 @@ using Foundation.Extensions;
 using System;
 using Vintagestory.API.Server;
 
-namespace vscraftingspeedmod.src
+namespace vscraftingspeed.src
 {
     public class VSCraftingSpeedMod : ModSystem
     {
