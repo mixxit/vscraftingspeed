@@ -1,0 +1,11 @@
+{
+    "type": "code",
+    "modid": "vscraftingspeedmod",
+    "name": "vscraftingspeedmod",
+    "author": "mixxit",
+    "description": "Vintage Story Mod to allow speeding up of crafting, crop growth etc",
+    "version": "1.5.9",
+    "dependency": {
+        "game": ""
+    }
+}
